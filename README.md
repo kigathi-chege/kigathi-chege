@@ -1,10 +1,13 @@
-### Hi there 👋 I am Kigathi Chege.
+### Hi there 👋 I am [Kigathi Chege](https://www.google.com/search?q=kigathi+chege).
 
 <!-- [![LinkedIn](/Linkedin-logo-png.png)]([link to your URL](https://www.linkedin.com/in/kigathi/)) -->
 
 [<img alt="alt_text" width="50px" src="Linkedin-logo-png.png" />](https://www.linkedin.com/in/kigathi/)
 
-Glad to see you here! 
+I am a full stack software engineer. I love programming, reading, and making music.
+
+I am attentive to details and I use my love for fixing problems using simple solutions as a motivating factor to build excellent apps.
+<!-- Glad to see you here!  -->
 <!-- 
 ${kigathi-chege}.${your.repo.id}
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
