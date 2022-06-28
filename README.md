@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Kigathi Chege.
 
-[![LinkedIn](/Linkedin-logo-png.png)]([link to your URL](https://www.linkedin.com/in/kigathi/))
+<!-- [![LinkedIn](/Linkedin-logo-png.png)]([link to your URL](https://www.linkedin.com/in/kigathi/)) -->
+
+[<img alt="alt_text" width="40px" src="Linkedin-logo-png.png" />]([https://www.google.com/](https://www.linkedin.com/in/kigathi/))
 
 Glad to see you here! 
 <!-- 
