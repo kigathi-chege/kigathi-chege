@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kigathi Chege.
 
-
+[![LinkedIn](/Linkedin-logo-png.png)]([link to your URL](https://www.linkedin.com/in/kigathi/))
 
 Glad to see you here! 
 <!-- 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with payment schemes.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Gmail](mailto:chegekigathi@gmail.com)
-- ⚡ Fun fact: I am a Priest :U+271D:
+- ⚡ Fun fact: I am a Priest ✝️
 
 <!-- 
 📊️ My Github stats
