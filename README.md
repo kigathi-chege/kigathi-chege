@@ -1,5 +1,6 @@
-### Hi there 👋
-I am Kigathi Chege.
+### Hi there 👋 I am Kigathi Chege.
+
+
 
 Glad to see you here! 
 <!-- 
@@ -19,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with payment schemes.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Gmail](mailto:chegekigathi@gmail.com)
-- ⚡ Fun fact: I am a Priest ✝️
+- ⚡ Fun fact: I am a Priest ✝
 
 <!-- 
 📊️ My Github stats
