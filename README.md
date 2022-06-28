@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on audio streaming.
 - 🤔 I’m looking for help with payment schemes.
 - 💬 Ask me about anything.
-- 📫 How to reach me: ![Gmail](https://icon-icons.com/icon/gmail-tile-logo/168164)[Gmail](mailto:chegekigathi@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [Gmail](mailto:chegekigathi@gmail.com)
+- ⚡ Fun fact: I am a Priest ✝️
 
