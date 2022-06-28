@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with payment schemes.
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Gmail](mailto:chegekigathi@gmail.com)
-- ⚡ Fun fact: I am a Priest :U+271D
+- ⚡ Fun fact: I am a Priest :U+271D:
 
 <!-- 
 📊️ My Github stats
