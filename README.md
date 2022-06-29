@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript                            ██████████▓░░░░░░░░░░░░░░   42.81 %
+Sublime Text Config                   ██████████░░░░░░░░░░░░░░░   40.52 %
+JavaScript                            ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Python                                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+HTML                                  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
