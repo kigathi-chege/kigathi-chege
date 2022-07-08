@@ -42,11 +42,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python                       █████████████████████▒░░░   85.71 %
-JavaScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-CSS                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-HTML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
