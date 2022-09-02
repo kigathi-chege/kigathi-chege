@@ -4,9 +4,10 @@
 
 [<img alt="alt_text" width="50px" src="Linkedin-logo-png.png" />](https://www.linkedin.com/in/kigathi/)
 
-I am a full stack software engineer. I love programming, reading, and making music.
+I do code.
+I sing for the Lord.
+I search for the day.
 
-I am attentive to details and I use my love for fixing problems using simple solutions as a motivating factor to build excellent apps.
 <!-- Glad to see you here!  -->
 <!-- 
 ${kigathi-chege}.${your.repo.id}
