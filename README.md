@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash                    ██████████████▓░░░░░░░░░░   58.07 %
+Other                   ██████████▒░░░░░░░░░░░░░░   41.93 %
 ```
 
 <!--END_SECTION:waka-->
