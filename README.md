@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript                   ██████████████▒░░░░░░░░░░   56.81 %
+TypeScript                   █████████▒░░░░░░░░░░░░░░░   37.52 %
+SQL                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+SCSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
