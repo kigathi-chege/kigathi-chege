@@ -43,10 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ███████████████████████▓░   94.01 %
-JavaScript                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-SQL                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Bash                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
