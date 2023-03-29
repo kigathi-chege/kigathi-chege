@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ██████████████░░░░░░░░░░░   55.75 %
-HTML                         ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-Other                        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+TypeScript                   ███████████████▓░░░░░░░░░   62.00 %
+HTML                         █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
+Other                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 ```
 
 <!--END_SECTION:waka-->
