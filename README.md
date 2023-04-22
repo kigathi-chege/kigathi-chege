@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   █████████████████████▒░░░   85.12 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+TypeScript                   █████████████████████░░░░   84.62 %
+Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
