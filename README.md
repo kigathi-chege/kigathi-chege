@@ -43,8 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ████████████████████░░░░░   79.85 %
-GraphQL                      █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+TypeScript                   ████████████████████▓░░░░   83.18 %
+HTML                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Markdown                     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
