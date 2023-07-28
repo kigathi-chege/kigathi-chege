@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript                   ████████████████░░░░░░░░░   63.41 %
+HTML                         █████████░░░░░░░░░░░░░░░░   36.30 %
+SQL                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
