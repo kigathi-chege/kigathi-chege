@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                   ████████████████░░░░░░░░░   63.50 %
-JSON                         ████████░░░░░░░░░░░░░░░░░   31.56 %
-PHP                          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
