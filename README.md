@@ -43,7 +43,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP                              █████████████████░░░░░░░░   67.52 %
+Blade Template                   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+SQL                              ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+ActionScript 3                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
