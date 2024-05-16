@@ -43,9 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                     ████████████████████████░   96.05 %
-Bash                    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PHP                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
