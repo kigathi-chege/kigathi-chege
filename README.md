@@ -43,11 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                       ██████████████████▒░░░░░░   73.99 %
-JSON                         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Bash                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-Vue.js                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Markdown                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
