@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                   ███████████████▒░░░░░░░░░   61.59 %
+Bash                     ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+TOML                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+HTML                     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
