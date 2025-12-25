@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                    ██████████████░░░░░░░░░░░   55.49 %
-YAML                   ███████████░░░░░░░░░░░░░░   44.51 %
+PHP                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
