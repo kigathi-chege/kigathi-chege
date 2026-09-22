@@ -43,11 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                         ██████████░░░░░░░░░░░░░░░   39.52 %
-YAML                               ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-Other                              █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-TSConfig                           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Markdown                           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
