@@ -43,11 +43,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash                               █████████▓░░░░░░░░░░░░░░░   38.31 %
-Other                              ███████░░░░░░░░░░░░░░░░░░   28.03 %
-TypeScript                         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Markdown                           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-JSON                               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
